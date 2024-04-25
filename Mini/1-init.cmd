@@ -30,3 +30,5 @@ rem git remote add origin git@github.com:HernaldoMeneses/name.git
 rem git branch -M main
 rem git push -u origin main
 rem ver como configuar a chave para permitir o comando push
+
+rem Ver configuração de chave de autenticação
